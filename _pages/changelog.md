@@ -6,7 +6,7 @@ include_in_header: true
 
 # 发行说明
 
-> > ## v3.2.2
+> ## v3.2.2
 
 ### 新增大家在看
 
@@ -22,7 +22,7 @@ include_in_header: true
 
 ---
 
-> > ## v3.2.0
+> ## v3.2.0
 
 ### 新增快捷翻译按钮
 
@@ -30,7 +30,7 @@ include_in_header: true
 
 ---
 
-> > ## v3.1.3
+> ## v3.1.3
 
 ### 优化播客语言的识别
 
@@ -42,7 +42,7 @@ include_in_header: true
 
 ---
 
-> > ## v3.1.0
+> ## v3.1.0
 
 ### 云端转译来了
 
@@ -54,7 +54,7 @@ include_in_header: true
 
 ---
 
-> > ## v3.0.2
+> ## v3.0.2
 
 ### 支持导入视频和音频
 
@@ -62,7 +62,7 @@ include_in_header: true
 
 ---
 
-> > ## v3.0.1
+> ## v3.0.1
 
 ### 支持通过 URL 收藏播客
 
@@ -74,7 +74,7 @@ include_in_header: true
 
 ---
 
-> > ## v3.0.0
+> ## v3.0.0
 
 ### 统一设计语言
 
@@ -94,7 +94,7 @@ include_in_header: true
 
 ---
 
-> > ## v2.3.0
+> ## v2.3.0
 
 ### bug 修复和体验优化
 
@@ -102,7 +102,7 @@ include_in_header: true
 
 ---
 
-> > ## v2.2.3
+> ## v2.2.3
 
 ### 重构首页布局
 
@@ -122,7 +122,7 @@ include_in_header: true
 
 ---
 
-> > ## v2.2.2
+> ## v2.2.2
 
 ### 紧急修复转译 bug
 
@@ -134,7 +134,7 @@ include_in_header: true
 
 ---
 
-> > ## v2.2.1
+> ## v2.2.1
 
 ### 支持收藏句子
 
@@ -150,7 +150,7 @@ include_in_header: true
 
 ---
 
-> > ## v2.2.0
+> ## v2.2.0
 
 ### bug 修复和体验优化
 
@@ -158,7 +158,7 @@ include_in_header: true
 
 ---
 
-> > ## v2.1.1
+> ## v2.1.1
 
 ### 支持德语、葡萄牙语和日语
 
@@ -174,7 +174,7 @@ include_in_header: true
 
 ---
 
-> > ## v2.1.0
+> ## v2.1.0
 
 ### App 升级为播客学语言
 
@@ -182,7 +182,7 @@ include_in_header: true
 
 ---
 
-> > ## v2.0.0
+> ## v2.0.0
 
 ### 新增底部播放栏
 
