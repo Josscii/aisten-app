@@ -4,62 +4,188 @@ title: What's New
 include_in_header: true
 ---
 
-# Changelog
-Here you can keep a changelog for your app. Edit the markdown based CHANGELOG.md which is located in the _pages directory. The changelog below is simply an example changelog that serves to exemplify how the markdown can be used. You can be as creative as you want with the markdown.
+# 发行说明
 
-<br>
+> > ## v3.2.2
 
-### `Latest`
-# **Version 2.0**
-This is the first update to our app. Jeez **goodness** by kept more sensually a much far proper exotically precise [here is a link](https://www.google.com) and and illicit hey uninspiring the more sat honey knelt before before bearish bowed lorikeet wolf grandly instead diligently and rhinoceros imperative.
+### 新增大家在看
 
-#### What's New
-- Much far proper exotically precise unaccountable.
-- [Changes to Privacy Policy](/privacypolicy)
+增加了大家在听的板块，如果不知道听什么，可以看看大家在听的内容，没准会有新发现，并且文本大部分已经为你提前转译完成，无需等待。
 
-#### Bug Fixes
-- Much far proper exotically precise unaccountable.
-- [Changes to Privacy Policy](/privacypolicy)
+### 增加长按查词
 
-<br>
+部分用户觉得点击查词容易误触，因此增加了长按查词的配置，如果需要请前往“更多>音频”中开启。
 
-### **Version 2.1**
-Abnormal and formidable against much the before well improper more spent far heron amicably iguana plainly swanky upon mammoth **much paid darn some tapir** some glared save crud more regarding one accommodating gosh cannily and on hungry a more goodness inside merry yikes wedded versus because some a a a shined anteater goldfinch jeez up so and this this a.
+### 新增英文转译模型
 
-#### What's New
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
+对于英文的转译，现在增加了专门针对英文优化的模型，请前往“更多>音频>转译设置”中下载使用，对准确率可能会有提升。
 
-<br>
+---
 
-________
-<br>
+> > ## v3.2.0
 
-### `Initial Release`
-# **Version 1.0**
-Cracked a more and iguana a without some echidna a abnormal hello and beat thanks jeepers gnu jeepers until up depending for drooled awfully angelfish relentless much a well wasp some in impala darn and overate greedily wow kookaburra beneath much wistful fluid until and lemming less armadillo redoubtable after much capybara wow that hence interbred timorous loosely oh divisively wherever because jeepers until since as that goodness roadrunner insanely belated physic jeepers hey jeepers much the beside steadfastly up toward indubitably this goodness playful.
+### 新增快捷翻译按钮
 
-<br>
+很多用户觉得翻译按钮不方便，所以在文本段落后新增了一个快捷翻译按钮，此功能需要在“更多>音频>显示快捷翻译按钮”中开启。
 
-## **Version 1.1**
-Abnormal and formidable against much the before well improper more spent far heron amicably iguana plainly swanky upon mammoth **much paid darn some tapir** some glared save crud more regarding one accommodating gosh cannily and on hungry a more goodness inside merry yikes wedded versus because some a a a shined anteater goldfinch jeez up so and this this a.
+---
 
-#### What's New
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
+> > ## v3.1.3
 
-<br>
+### 优化播客语言的识别
 
-## Version 1.0.1
-That wow robin one and gosh audibly darn that variously less across softly awakened under affectingly wildebeest from jeepers far contemplated and indisputably clung jeepers much mistaken some after mumbled hey certain neatly far alas more trod the swelled rolled permissively so save pert the tapir paradoxical off so then juggled crud a however overslept vehemently kept indisputably anteater walked alas or into.
+某些播客语言可能会识别不准确，现在你可以在播放页面右上角的菜单中为播客重新选择语言。
 
-#### What's New
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
+### 词汇导出改为 csv
 
-#### Bug Fixes
-- Improved user sign up experience.
-- Unlike deliberately zebra hen oh jeez understandable. Alas and quit oh snooty unlike deliberately.
+词汇现在导出格式为 csv，可以导入到 anki 软件中进行记忆。也支持单篇播客的词汇导出了。
 
-<br>
+---
+
+> > ## v3.1.0
+
+### 云端转译来了
+
+本地转译的准确率和性能一直不太让人满意，于是我决定通过云端转译解决这个问题，现在你经常听的播客会提前在云端静默的为你转译。
+
+### 支持瑞典语和意大利语
+
+增加了瑞典语和意大利语的基础支持。
+
+---
+
+> > ## v3.0.2
+
+### 支持导入视频和音频
+
+千呼万唤始出来，很多用户的期待的导入音频和视频的功能来了，需要的快去试试吧。
+
+---
+
+> > ## v3.0.1
+
+### 支持通过 URL 收藏播客
+
+现在支持通过 URL 来收藏播客啦，某些搜索不到的播客或者私有链接的播客可以通过这种方式添加。
+
+### 部分播客支持章节跳转
+
+对于提供了时间戳的播客，现在支持章节跳转。如果该播客支持跳转，播放页面右上角会出现章节按钮。
+
+---
+
+> > ## v3.0.0
+
+### 统一设计语言
+
+统一了整个 app 的设计语言，重构了词汇页面，简化了一些不必要的设计。
+
+### 增加词频统计
+
+词汇页面增加了“词频统计”板块，统计你听过的播客的文本的所有出现的单词的次数，目前还没有其他衍生功能。
+
+### 新增时间统计
+
+现在会统计你的收听时间，积少成多，希望可以帮助你了解自己在听播客上花的时间。
+
+### 新增 App 图标
+
+继续给大家带来几个看起来还不错的图标，去挑挑看有没有你喜欢的吧。
+
+---
+
+> > ## v2.3.0
+
+### bug 修复和体验优化
+
+修复了快速播放小组件有时候显示异常的问题，优化了反馈问题页面的设计细节等问题。
+
+---
+
+> > ## v2.2.3
+
+### 重构首页布局
+
+一直对首页布局不太满意，用户也希望把收藏的播客放到首页，于是就有了这次的改动。去掉了正在播放的板块，增加了收藏的播客、最新单集、收藏的音频板块。
+
+### 优化了音频状态的显示
+
+对音频增加了正在播放、播放过、未播放三种状态的区分显示。
+
+### 共享单词和句子
+
+通过共享单词和共享句子的按钮，你可以调用其他应用对文本进行处理，比如调用欧路词典查词等等。
+
+### 重构了大爆炸页面
+
+去掉了大爆炸的选词页面，替换为系统的长按选择文本模式，现在可以更方便的选词了。
+
+---
+
+> > ## v2.2.2
+
+### 紧急修复转译 bug
+
+上个版本修改转译器导致了一个严重 bug，十分抱歉，这个版本主要是修复这个问题。
+
+### 优化查词弹窗设计
+
+在用户的督促下，把查词弹窗的设计优化了，现在看起来更协调。
+
+---
+
+> > ## v2.2.1
+
+### 支持收藏句子
+
+现在支持收藏句子了，目前功能还比较基础，如果觉得哪里不方便，麻烦反馈给我。
+
+### 重构了单词高亮
+
+增加了动画和圆角，在隐藏式菜单未打开的情况下，支持长按选择文字。
+
+### 新版转译器
+
+我们一直在优化转译器的体验，现在推出新版转译器，对比旧版各有优劣，请前往更多>音频里面打开体验。
+
+---
+
+> > ## v2.2.0
+
+### bug 修复和体验优化
+
+修复一些 bug，优化了一些体验，修改了 iPad 上的布局模式。
+
+---
+
+> > ## v2.1.1
+
+### 支持德语、葡萄牙语和日语
+
+初步支持了这几种语言的学习，但是体验可能没有英语好，需要的可以体验体验。
+
+### 增加了多种不同风格 App 图标
+
+赶紧去看看有没有你喜欢的图标吧，希望能给你带来好心情。
+
+### 支持隐藏段落菜单
+
+现在支持隐藏段落菜单了，文本变得更紧凑，可以长按段落来呼出菜单。
+
+---
+
+> > ## v2.1.0
+
+### App 升级为播客学语言
+
+现在初步支持西班牙语和法语了，如果还想支持其他语言，请向我反馈。
+
+---
+
+> > ## v2.0.0
+
+### 新增底部播放栏
+
+现在退出播放页面后不会停止播放，你可以通过新增的底部播放栏控制播放。
+
+---
